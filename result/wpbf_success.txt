@@ -1,0 +1,3 @@
+http://localhost:9090/bugbounty/wp/ => admin => admin123
+http://localhost:9090/bugbounty/wp/ => admin => admin123
+http://localhost:9090/bugbounty/wp/ => admin => admin123http://localhost:9090/bugbounty/wp/ => admin => admin123
